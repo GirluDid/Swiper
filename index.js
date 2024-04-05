@@ -1,4 +1,4 @@
-var swiper = new Swiper(".mySwiper", {
+Swiper(".mySwiper", {
       spaceBetween: 30,
       navigation: {
         nextEl: ".swiper-button-next",
