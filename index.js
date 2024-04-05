@@ -1,9 +1,9 @@
-    var swiper = new Swiper(".mySwiper", {
-      spaceBetween: 30,
-      navigation: {
+var swiper = new Swiper(".mySwiper", {
+    spaceBetween: 30,
+    navigation: {
         nextEl: ".swiper-button-next",
         prevEl: ".swiper-button-prev",},
-      pagination: {
+    pagination: {
         el: ".swiper-pagination",},
-      mousewheel: true,
-      keyboard: true,});
+    mousewheel: true,
+    keyboard: true,});
