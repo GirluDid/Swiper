@@ -6,4 +6,4 @@ Swiper(".mySwiper", {
       pagination: {
         el: ".swiper-pagination",},
       mousewheel: true,
-      keyboard: true,});
+      keyboard: true,})
